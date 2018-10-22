@@ -2,4 +2,4 @@
 
 learn [dynogels](https://github.com/clarkie/dynogels) - DynamoDB data mapper for node.js
 
-> this code uses [dynogels-promisified](https://github.com/andrewoh531/dynogels-promisified) to leverage async/await
+> this code uses [dynogels-promisified](https://github.com/andrewoh531/dynogels-promisified) to leverage async/await.  Promisifies by appending `Async` to each method name.
